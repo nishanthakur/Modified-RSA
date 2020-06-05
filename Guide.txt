@@ -1,0 +1,6 @@
+# Usage
+Step 01: Either clone or download the zip file of this repository.
+Step 02: Execute the "modified_rsa.py" file.
+Step 03: Select three large random prime numbers.
+Step 04: Calculate public key.
+Step 05: Derive private key using the value of public key.
