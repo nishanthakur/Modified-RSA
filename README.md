@@ -4,8 +4,8 @@ RSA algorithm uses only two prime numbers to generate a public and private key. 
 
 ## Usage of RSA Script
 
-**SAMPLE A: Encrypting and Decrypting message “123” using RSA. **
-
+**SAMPLE A: Encrypting and Decrypting message “123” using RSA.
+**
 **Step 01:** Selecting two large distinct random prime numbers i.e. [p=83 and q=89] 
 
 <img width="420" alt="image" src="https://github.com/nishanthakur/Modified-RSA/assets/54204886/bf840fcd-cb39-4846-8d0e-8758d4630327">
